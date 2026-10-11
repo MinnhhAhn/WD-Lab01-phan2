@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 2 - Thành tích đạt được</title>
+</head>
+
+<body>
+    <center>
+        <h1>THÀNH TÍCH ĐẠT ĐƯỢC</h1>
+        <hr width="300">
+
+        <h2>1. Thành tích ở phổ thông</h2>
+        <p>Đạt danh hiệu học sinh giỏi 12 năm học</p>
+        <p>Điểm trung bình môn Toán luôn trên 9.0</p>
+
+        <h2>2. Kết quả thi tuyển sinh đại học</h2>
+        <p>Điểm thi môn Toán: 9.0</p>
+        <p>Tổng điểm đánh giá năng lực năm 2023: 832 điểm</p>
+        <p>Phần Toán - Logic - Phân tích số liệu: 239/300 điểm</p>
+
+        <h2>3. Thành tích học tập ở đại học</h2>
+        <p>Số tín chỉ tích lũy: 121</p>
+        <p>Điểm trung bình tích lũy: 7.8</p>
+
+        <hr width="300">
+        <p><a href="index.html">Quay về trang chủ</a></p>
+    </center>
+</body>
+</html>
